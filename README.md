@@ -1,4 +1,4 @@
-Then build the docker container images.
+Then build the docker container images development.
 
 ```
 $ cd microservice-sampler
